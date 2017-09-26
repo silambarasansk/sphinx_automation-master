@@ -1,0 +1,20 @@
+== README
+
+Run : rake features
+
+  To run all scenarios
+
+In cucumber options --tags @<tagname> to run particular tags
+use --tags ~@<tagname> to skip any tags
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
+
+Steps:
+=======
+1. Clone the repository from git
+2. Do bundle install
+
+Pre-requisites:
+================
